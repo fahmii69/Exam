@@ -3,6 +3,20 @@ Its my first time create project using Laravel framework, so for the reference a
 "Belajar Laravel" on Web Programming Unpas youtube channel.
 https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2
 
+Installation and reqruitments :
+PHP 8.1.2
+Laravel 9.23.0
+Valet packagist = https://packagist.org/packages/cretueusebiu/valet-windows
+
+How to open the file : 
+top open localhost use localhost:8080
+web url = exam.test
+because i use valet packagist so there's any reqruitment for open the webview (as far as i know)
+IP4 dns must be 127.0.0.1
+IP 6 = ::1
+
+
+
 i create the project based on the playlist of those youtube video :
 STEP 1 : Learn about laravel,folder, route and view
 - First Step i learn to install & configure laravel framework & Valet packagist using github.

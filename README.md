@@ -9,7 +9,7 @@ Laravel 9.23.0
 Valet packagist = https://packagist.org/packages/cretueusebiu/valet-windows
 
 How to open the file : 
-top open localhost use localhost:8080
+to open localhost use localhost:8080
 web url = exam.test
 because i use valet packagist so there's any reqruitment for open the webview (as far as i know)
 IP4 dns must be 127.0.0.1

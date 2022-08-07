@@ -11,7 +11,7 @@ Valet packagist = https://packagist.org/packages/cretueusebiu/valet-windows
 How to open the file : 
 to open localhost use localhost:8080
 web url = exam.test
-because i use valet packagist so there's any reqruitment for open the webview (as far as i know)
+because i use valet packagist so there's any reqruitment for open the webview (as far as i know because i never opened it on other computer)
 IP4 dns must be 127.0.0.1
 IP 6 = ::1
 
